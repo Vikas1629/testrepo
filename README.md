@@ -51,8 +51,6 @@ I design and deliver **production-grade data platforms** on **Microsoft Fabric**
 ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
 ![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-**Cleared & renewed:** PL-300 · DP-600 · DP-700
 <!-- **In progress:** DP-750 (Azure Databricks Data Engineer) · Databricks Certified Data Engineer Associate -->
 
 ---

@@ -1,300 +1,96 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           VIKAS KHAIRNAR — GitHub Profile README             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ====================== HEADER ====================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A5C,100:E87722&height=200&section=header&text=VIKAS%20KHAIRNAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Azure%20Data%20Engineer%20%7C%20Azure%20Databricks%20%7C%20Microsoft%20Fabric%20%7C%20Power%20BI%20%7C%2010%2B%20Years&descAlignY=58&descSize=18&descColor=ffffff" alt="header"/>
+</p>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=VIKAS%20KHAIRNAR&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Aspiring%20Data%20Engineer&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=Turning+raw+data+into+clear+decisions+%F0%9F%93%8A;Power+BI+%7C+MS+Fabric+%7C+SQL+%7C+Python;Bridging+business+needs+%26+tech+solutions+%F0%9F%8C%89;Ex-Software+Engineer+→+Data+Analytics+%26+Engineering)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E87722&center=true&vCenter=true&width=750&lines=Senior+Azure+Data+Engineer;Microsoft+Fabric+%7C+Databricks+%7C+PySpark+%7C+SQL;Bridging+BI+and+code-first+Big+Data+Engineering;Driving+Data+Development" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 👩‍💼 Who Am I?
+## 👨‍💻 About Me
 
-> *"I don't just read data — I make it speak."*
+I'm **Vikas Khairnar**, a **Senior Azure Data Engineer** based in **Pune, India**, with **10+ years** spanning high-scale data ingestion, enterprise BI, and modern lakehouse engineering.
 
-I'm **Vikas Khairnar**, a results-driven **Data Analyst & Power BI Developer** based in **Pune, India**, transitioning from a software engineering background into the world of **Data Analytics & Data Engineering**.
+I design and deliver **production-grade data platforms** on **Microsoft Fabric** and **Azure Databricks**, from metadata-driven ETL frameworks and Medallion architectures to CI/CD-backed pipelines. My edge is bridging **low-code cloud analytics** (Power BI, Fabric) with **code-first big data engineering** (PySpark, Delta Lake, Unity Catalog).
 
-With hands-on experience in **Power BI**, **MS Fabric**, **SQL**, and **Python**, I specialize in designing **dashboards that tell stories**, automating reporting pipelines, and translating complex datasets into clear business intelligence.
-
-<br/>
-
----
-
-## 🚀 What I Do | What I Can Do | What I've Achieved
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-
-### 🔵 What I Do
-- Build **Power BI dashboards** for business reporting
-- Design **data models** and ETL pipelines in **MS Fabric**
-- Write **SQL queries** for complex data extraction
-- Automate reporting with **Excel + Power Query**
-- Translate business requirements into analytical solutions
-
-    </td>
-    <td width="33%" valign="top">
-
-### 🟢 What I Can Do
-- End-to-end **BI development** (source → insight)
-- **Requirement gathering** & stakeholder communication
-- Build **Medallion architecture** in MS Fabric / Lakehouse
-- Python scripting with **Pandas, NumPy, Scikit-learn**
-- **Data storytelling** through visuals & reports
-
-    </td>
-    <td width="33%" valign="top">
-
-### 🏆 What I've Achieved
-- 🎓 PG in **Data Science & Analytics** – Imarticus Learning
-- 💼 **1.7 yrs** as Associate Software Engineer – Xyrem Software Solutions
-- 📊 Built healthcare & bike sales dashboards (see pinned repos)
-- 📝 Created structured learning notes on Power BI & MS Fabric
-- 🔄 Successfully transitioned from Dev → Data
-
-    </td>
-  </tr>
-</table>
-
-<br/>
+- 🏗️ Building metadata-driven, parent-child pipeline frameworks in Microsoft Fabric
+- ⚡ Deepening production-grade PySpark, Delta Lake internals, and Unity Catalog governance
+- 🎯 Focused on **advancing modern data platforms** at scale
+- ✍️ Writing about mastered concepts as **TheDataVikas**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
-### 📊 Data & BI Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/MS%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🗄️ Data & Databases
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🐍 Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### ☁️ Cloud & Engineering (Currently Learning)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=apachespark&logoColor=white)
+### Platforms & Big Data
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### 🤝 Soft & Business Skills
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Requirement Gathering](https://img.shields.io/badge/Requirement%20Gathering-6DB33F?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-gray?style=for-the-badge&logo=gitbook&logoColor=white)
+### Cloud & Orchestration
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-<br/>
-
----
-
-## 📚 Courses Completed
-
-| # | Course | Platform | Status | Notes |
-|---|--------|----------|--------|-------|
-| 1 | PG Program – Data Science & Analytics | Imarticus Learning | ✅ Completed | — |
-| 2 | Power BI – End to End | Self / YouTube | ✅ Completed | [📝 Notes](#-learning-notes) |
-| 3 | Microsoft Fabric for Beginners | Microsoft Learn | ✅ Completed | [📝 Notes](#-learning-notes) |
-| 4 | SQL for Data Analysis | Self Study | ✅ Completed | — |
-| 5 | Python for Data Science | Coursera / Udemy | ✅ Completed | — |
-| 6 | Azure Data Engineering (DP-203) | In Progress 🔄 | 🔄 Ongoing | — |
-
-> 💡 *More courses being added as I grow. Watch this space!*
-
-<br/>
+### Languages & BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📝 Learning Notes
+## 🏅 Certifications
 
-> These are my structured learning notes (PDFs) created while studying topics end-to-end. Great for anyone learning these tools!
+![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+![DP-600](https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![DP-700](https://img.shields.io/badge/DP--700-Fabric%20Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-| Topic | Description | Link |
-|-------|-------------|------|
-| 📘 Power BI – Complete Notes | DAX, Data Modelling, Visuals, Row-Level Security | [View Notes →](./notes/powerbi-notes.pdf) |
-| 🏗️ MS Fabric – Architecture & Concepts | Lakehouse, Dataflows, Pipelines, Medallion Architecture | [View Notes →](./notes/ms-fabric-notes.pdf) |
-| 🗄️ SQL – Query Optimization | Joins, CTEs, Window Functions, Performance Tuning | [View Notes →](./notes/sql-notes.pdf) |
-| 🐍 Python for Analytics | Pandas, NumPy, EDA workflows | [View Notes →](./notes/python-analytics-notes.pdf) |
-
-> 📌 *Notes are stored in the [`/notes`](./notes/) folder of this repository or linked repos. PDFs are structured, clean, and beginner-friendly.*
-
-<br/>
+**Cleared & renewed:** PL-300 · DP-600 · DP-700
+<!-- **In progress:** DP-750 (Azure Databricks Data Engineer) · Databricks Certified Data Engineer Associate -->
 
 ---
 
-## 🏅 Certifications & Badges
+## 💼 Experience
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/🎓%20PG%20in%20Data%20Science-Imarticus-blue?style=for-the-badge" /><br/>
-      <b>PG Data Science & Analytics</b><br/>
-      <i>Imarticus Learning</i><br/>
-      <a href="./certifications/imarticus-pg-certificate.pdf">📄 View Certificate</a>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Microsoft%20Fabric-Certified-0078D4?style=for-the-badge&logo=microsoft" /><br/>
-      <b>MS Fabric Fundamentals</b><br/>
-      <i>Microsoft Learn</i><br/>
-      <a href="./certifications/ms-fabric-badge.png">🏅 View Badge</a>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Power%20BI-Proficient-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br/>
-      <b>Power BI Developer</b><br/>
-      <i>Self Certified via Projects</i><br/>
-      <a href="./certifications/powerbi-cert.pdf">📄 View Certificate</a>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <b>Python for Data Science</b><br/>
-      <i>Coursera / Udemy</i><br/>
-      <a href="./certifications/python-cert.pdf">📄 View Certificate</a>
-    </td>
-  </tr>
-</table>
+**Senior Azure Data Engineer** — *Accion Labs, Pune* (2024–Present)
+Microsoft Fabric medallion architectures, metadata-driven ETL with Dataflows Gen2 and dynamic pipelines, REST API automation across 200+ semantic models, CI/CD via Azure DevOps, and parallelised PySpark orchestrator-worker frameworks for Materialized Lakehouse Views.
 
-> 📁 *All certificates and badge images are stored in [`/certifications`](./certifications/) folder.*
-
-<br/>
+**Software Engineer → Team Lead** — *Skylex Technologies* (2015–2023)
+Grew from high-scale marketing data ingestion (millions of daily records, Unix scripting, SQL) into advanced Power BI semantic modeling, Star Schema design, hybrid-cloud FinOps cost optimisation, and people management as Team Lead.
 
 ---
 
-## 📊 Projects & POCs
+## 🚀 Notable Work
 
-### 🔴 Healthcare Blood Test Dashboard — Tableau
-> Analyzing patient blood test data to identify trends, flag anomalies, and support clinical decisions.
-
-🔗 [View Repository](https://github.com/TheDataVikas/healthcare-blood-test-dashboard-tableau) &nbsp;|&nbsp; 📊 [View Dashboard](#)
-
-**Tech Stack:** `Tableau` `Excel` `Data Cleaning` `Healthcare Analytics`
-
----
-
-### 🟡 Bike Sales Dashboard — Excel
-> End-to-end Excel dashboard tracking sales performance, customer demographics, and regional trends.
-
-🔗 [View Repository](https://github.com/TheDataVikas/Bike-Sales-Dashboard-EXCEL-project-) &nbsp;|&nbsp; 📈 [View Dashboard](#)
-
-**Tech Stack:** `Excel` `VLOOKUP` `PivotTables` `Charts`
-
----
-
-### 🔵 MS Fabric — Medallion Architecture POC *(Coming Soon)*
-> Building a Bronze → Silver → Gold data lakehouse pipeline using Microsoft Fabric, Dataflows Gen2, and Delta Lake.
-
-🔗 *Repository in progress...*
-
-**Tech Stack:** `MS Fabric` `Delta Lake` `PySpark` `OneLake` `Power BI`
-
----
-
-### 🟢 Power BI — HR Analytics Dashboard *(Coming Soon)*
-> Workforce attrition analysis, headcount trends, and department-wise performance using Power BI with Row-Level Security.
-
-🔗 *Repository in progress...*
-
-**Tech Stack:** `Power BI` `DAX` `SQL` `Power Query`
-
-<br/>
-
----
-
-## ✍️ Blogs & Articles
-
-| Title | Platform | Link |
-|-------|----------|------|
-| 🔵 Getting Started with Microsoft Fabric | Coming Soon | 📝 |
-| 📊 Power BI vs Tableau — Which one & When? | Coming Soon | 📝 |
-| 🏗️ What is Medallion Architecture? (Simple Explanation) | Coming Soon | 📝 |
-| 🐍 5 Pandas Tricks Every Data Analyst Should Know | Coming Soon | 📝 |
-
-> 💬 *Blogs will be published on [LinkedIn](https://www.linkedin.com/in/thedatavikas) and [Medium](https://thedatavikas.medium.com/). Follow along!*
-
-<br/>
+- **Metadata-Driven Fabric Pipeline (Parent-Child):** Bronze Lakehouse → multiple Silver Warehouses with an atomic DROP+CTAS swap and a config-table routing mechanism for dynamic group-to-warehouse mapping.
+- **REST API Automation:** Programmatically bulk-updated 200+ Power BI semantic models.
+- **PySpark Orchestrator-Worker Framework:** Parallelised processing engine for Materialized Lakehouse Views (MLVs).
+- **Composite Surrogate Keys:** SHA-256 keys to reliably merge assessment datasets with unreliable source identifiers.
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheDataVikas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=F2C811&text_color=a8b2d8" height="165" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataVikas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDataVikas&theme=midnight-purple&hide_border=true&background=0d1117&ring=e94560&fire=F2C811&currStreakLabel=a8b2d8" />
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDataVikas&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=E87722&icon_color=F2C811&text_color=a8b2d8" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataVikas&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=E87722&text_color=a8b2d8" alt="top langs" height="165"/>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedatavikas)
+[![GitHub](https://img.shields.io/badge/GitHub-TheDataVikas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheDataVikas)
+[![Email](https://img.shields.io/badge/Email-TheDataVikas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TheDataVikas@gmail.com,vikas4393@hotmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thedatavikas)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-TheDataVikas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TheDataVikas@email.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1DA462?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 🧭 My Data Journey
-
-```
-Software Engineer (1.7 yrs)
-        ↓
-   Data Analytics (Power BI, SQL, Python, Tableau)
-        ↓
-   Business Intelligence (MS Fabric, Lakehouse, DAX)
-        ↓
-   Data Engineering (Azure, Spark, Delta Lake) ← Currently Here 🎯
-        ↓
-   Senior Data Engineer / BI Architect (Goal 🚀)
-```
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&fontColor=e94560" width="100%"/>
-
-*"Bridging the gap between business needs and tech solutions."*
-
-⭐ **If my notes or projects helped you, consider starring the repos!**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E87722,100:1B3A5C&height=100&section=footer&text=Driving%20Data%20Development&fontSize=16&fontColor=ffffff&fontAlignY=70" alt="footer"/>
+</p>
